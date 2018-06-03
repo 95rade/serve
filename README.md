@@ -5,7 +5,7 @@ serve
 
 `serve` starts a simple temporary static file server in your current directory and prints your IP address to share with colleagues.
 
-It's based on [a Gist](https://gist.github.com/paulmach/7271283/2a1116ca15e34ee23ac5a3a87e2a626451424993) by [Paul Mach](https://github.com/paulmach).
+It's based on [a Gist](https://gist.github.com/paulmach/7271283/2a1116ca15e34ee23ac5a3a87e2a626451424993) by [Paul Mach](https://github.com/paulmach) and it's not related to [github.com/zeit/serve](https://github.com/zeit/serve) in any way - I heard about it one month after creating this repository.
 
 Contents
 --------
